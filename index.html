@@ -1,0 +1,44 @@
+---
+layout: default
+title: Home
+---
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    {% if post.image %}
+    <a href="{{ post.url | relative_url }}" class="post-preview-image">
+      <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" loading="lazy">
+    </a>
+    {% endif %}
+    <div class="post-preview-content">
+      <h2 class="post-preview-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <time class="post-preview-date" datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: "%B %d, %Y" }}
+      </time>
+      {% if post.categories.size > 0 %}
+      <div class="post-preview-categories">
+        {% for cat in post.categories %}
+        <span class="category-tag">{{ cat }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+      <p class="post-preview-excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+      <a href="{{ post.url | relative_url }}" class="read-more">Read more &rarr;</a>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-link">&larr; Newer</a>
+  {% endif %}
+  <span class="pagination-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-link">Older &rarr;</a>
+  {% endif %}
+</nav>
+{% endif %}
