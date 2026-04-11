@@ -14,49 +14,49 @@ As I’ve stated in the past, the reason why you as the DIT want to format cards
 
 The app is [Parashoot](https://parashoot.kamerawerk.ch/), and it’s awesome!
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-6b3ac-screen-shot-2017-07-31-at-7.33.59-am-1.png)](/assets/images/parashoot-the-safeish-card-eraser-app-6b3ac-screen-shot-2017-07-31-at-7.33.59-am-1.png)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-6b3ac-screen-shot-2017-07-31-at-7.33.59-am-1.png)]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-6b3ac-screen-shot-2017-07-31-at-7.33.59-am-1.png)
 
 Here’s how it works:
 
 You pop a mag into your card reader and in the system tray is the app, so you don’t actually have to have the app open to use it, it just stays in the system tray (which I really like). It’s the highlighted icon here:
 
-![](/assets/images/parashoot-the-safeish-card-eraser-app-1fd57-screen-shot-2017-07-31-at-7.33.31-am.png)
+![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-1fd57-screen-shot-2017-07-31-at-7.33.31-am.png)
 
 If this is the first time you’ve run it, or if I presume your backup drive isn’t connected (~~or it’s a new one maybe? I don’t see an option to change this, maybe something in a future update?~~ See below for updated information on this) you’ll get this prompt:
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-b3e65-screen-shot-2017-07-31-at-7.32.54-am-300x115-1.png)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/52c05-screen-shot-2017-07-31-at-7.32.54-am.png)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-b3e65-screen-shot-2017-07-31-at-7.32.54-am-300x115-1.png)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/52c05-screen-shot-2017-07-31-at-7.32.54-am.png)
 
 It will prompt you for a destination, and then you select that and you’re good.  For me it’s a RAID that I have set up for this TV show I’m on now.
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-62960-screen-shot-2017-07-31-at-7.33.16-am.png)](/assets/images/parashoot-the-safeish-card-eraser-app-62960-screen-shot-2017-07-31-at-7.33.16-am.png)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-62960-screen-shot-2017-07-31-at-7.33.16-am.png)]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-62960-screen-shot-2017-07-31-at-7.33.16-am.png)
 
 Then from the drop down menu from the task bar, you select the “Erase XXX” option.
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-ea1dd-screen-shot-2017-07-31-at-8.59.03-am.png)](/assets/images/parashoot-the-safeish-card-eraser-app-ea1dd-screen-shot-2017-07-31-at-8.59.03-am.png)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-ea1dd-screen-shot-2017-07-31-at-8.59.03-am.png)]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-ea1dd-screen-shot-2017-07-31-at-8.59.03-am.png)
 
 Then it will give you this prompt (BTW this is a different card because I didn’t take a screenshot of the erase prompt when originally clearing media):
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-ec0c6-screen-shot-2017-07-31-at-7.33.26-am-2.png)](/assets/images/parashoot-the-safeish-card-eraser-app-ec0c6-screen-shot-2017-07-31-at-7.33.26-am-2.png)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-ec0c6-screen-shot-2017-07-31-at-7.33.26-am-2.png)]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-ec0c6-screen-shot-2017-07-31-at-7.33.26-am-2.png)
 
 To which the system tray will update with this:
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-46634-screen-shot-2017-07-31-at-7.35.41-am.png)](/assets/images/parashoot-the-safeish-card-eraser-app-46634-screen-shot-2017-07-31-at-7.35.41-am.png)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-46634-screen-shot-2017-07-31-at-7.35.41-am.png)]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-46634-screen-shot-2017-07-31-at-7.35.41-am.png)
 
 and then finally giving you this prompt:
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-a78a5-screen-shot-2017-07-31-at-7.33.46-am-1-300x131-1.png)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/f06fe-screen-shot-2017-07-31-at-7.33.46-am-1.png)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-a78a5-screen-shot-2017-07-31-at-7.33.46-am-1-300x131-1.png)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/f06fe-screen-shot-2017-07-31-at-7.33.46-am-1.png)
 
 The cool thing here is IF you accidentally format a mag, you can restore it.  Just put the affected mag back in the reader, it will pop up as unreadable (just hit ignore).
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-ba97d-screen-shot-2017-07-31-at-9.39.08-am-300x113-1.png)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/de669-screen-shot-2017-07-31-at-9.39.08-am.png)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-ba97d-screen-shot-2017-07-31-at-9.39.08-am-300x113-1.png)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/de669-screen-shot-2017-07-31-at-9.39.08-am.png)
 
 From the dropdown menu hit Restore Disk 3, and voila, your mag is back in working order.
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-80908-screen-shot-2017-07-31-at-9.40.45-am.png)](/assets/images/parashoot-the-safeish-card-eraser-app-80908-screen-shot-2017-07-31-at-9.40.45-am.png)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-80908-screen-shot-2017-07-31-at-9.40.45-am.png)]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-80908-screen-shot-2017-07-31-at-9.40.45-am.png)
 
 If you don’t have it backed up, here’s the error you get (taken from the developer’s screenshots, I didn’t want to chance this at all on my show):
 
-[![](/assets/images/parashoot-the-safeish-card-eraser-app-10cf6-14962660_1330396490303782_4661918961359612556_n.jpg)](/assets/images/parashoot-the-safeish-card-eraser-app-10cf6-14962660_1330396490303782_4661918961359612556_n.jpg) [![](/assets/images/parashoot-the-safeish-card-eraser-app-de683-14993536_1330396496970448_2134577824589542911_n.jpg)](/assets/images/parashoot-the-safeish-card-eraser-app-de683-14993536_1330396496970448_2134577824589542911_n.jpg)
+[![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-10cf6-14962660_1330396490303782_4661918961359612556_n.jpg)]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-10cf6-14962660_1330396490303782_4661918961359612556_n.jpg) [![]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-de683-14993536_1330396496970448_2134577824589542911_n.jpg)]({{ site.baseurl }}/assets/images/parashoot-the-safeish-card-eraser-app-de683-14993536_1330396496970448_2134577824589542911_n.jpg)
 
 The developer says this is what is going on behind the scenes:
 

@@ -12,21 +12,21 @@ But for now, here are the benchmarks in Geekbench:
 
 2020 16GB Mac Mini: [CPU](https://browser.geekbench.com/v5/cpu/4798987) | [GPU](https://browser.geekbench.com/v5/compute/1858257)
 
-[![](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.51.27-pm-2.png)](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.51.27-pm-2.png)
-[![](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.53.01-pm-1.png)](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.53.01-pm-1.png)
+[![]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.51.27-pm-2.png)]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.51.27-pm-2.png)
+[![]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.53.01-pm-1.png)]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.53.01-pm-1.png)
 
 2018 Mac Mini: [CPU](https://browser.geekbench.com/v5/cpu/4799127) | [GPU](https://browser.geekbench.com/v5/compute/1858364)
 
-[![](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.54.09-pm.png)](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.54.09-pm.png)
-[![](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.55.28-pm.png)](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.55.28-pm.png)
+[![]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.54.09-pm.png)]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.54.09-pm.png)
+[![]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.55.28-pm.png)]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.55.28-pm.png)
 
 2019 16″ MacBook Pro (maxed out): [CPU](https://browser.geekbench.com/v5/compute/1858418) | [GPU](https://browser.geekbench.com/v5/compute/1858418)
 
-[![](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.55.51-pm.png)](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.55.51-pm.png)
-[![](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.56.19-pm.png)](/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.56.19-pm.png)
+[![]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.55.51-pm.png)]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.55.51-pm.png)
+[![]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.56.19-pm.png)]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-screen-shot-2020-11-17-at-7.56.19-pm.png)
 
 More to come soon…next week? maybe?
 
 Also, don’t jump out and switch over yet. As of now (11/17/2020) Davinci Resolve 17.0b1 does not see the GPU whatsoever in the app. I’ll be testing out Silverstack Labs later this week.
 
-[![](/assets/images/mac-mini-2020-benchmarks-image-11-17-20-at-4.43-pm.jpg)](/assets/images/mac-mini-2020-benchmarks-image-11-17-20-at-4.43-pm.jpg)
+[![]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-image-11-17-20-at-4.43-pm.jpg)]({{ site.baseurl }}/assets/images/mac-mini-2020-benchmarks-image-11-17-20-at-4.43-pm.jpg)

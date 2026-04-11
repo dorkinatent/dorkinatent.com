@@ -7,17 +7,17 @@ tags: [CDL, color, DaVinci, digital, Digital Imaging Technician, dit, film, film
 image: /assets/images/sony-venice-review-94a38-d1-pictureday-bts-0282.jpg
 ---
 
-![D1-PictureDay-BTS-0282.jpg](/assets/images/sony-venice-review-94a38-d1-pictureday-bts-0282.jpg)
+![D1-PictureDay-BTS-0282.jpg]({{ site.baseurl }}/assets/images/sony-venice-review-94a38-d1-pictureday-bts-0282.jpg)
 
 When I saw a post on facebook from [Cinematographer Leland Krane](http://www.lelandkrane.com/) about asking for a DIT for a camera test of Sony’s new flagship camera, the Venice, I was instantly intrigued.  I enjoy diving in with these new cameras to get a sort of headstart on the problems and issues, because normally these things take a while to sort out all the production bugs (engineers sitting in a room coming up with design ideas tends to not work so well on set), and so I wanted to see what all the fuss was about.  I was not able to make the test, I was working on [The Good Cop season 1](http://www.imdb.com/title/tt7183074/), so I sent [Michael Maiatico](http://www.imdb.com/name/nm3317659/) in my place instead. 
 
-![D1-PictureDay-BTS-0653.jpg](/assets/images/sony-venice-review-1c36b-d1-pictureday-bts-0653-2410231816-1523716052752.jpg)
+![D1-PictureDay-BTS-0653.jpg]({{ site.baseurl }}/assets/images/sony-venice-review-1c36b-d1-pictureday-bts-0653-2410231816-1523716052752.jpg)
 
 Mike and Leland really put the camera through it’s tests.  They tested different lenses, filters, exposure limits, all sorts of things that one would expect.  For me, I wasn’t too keen on the 709TypeA in camera delog and so I wanted to create my own if we were going to use this camera.
 
 > Side note: I don’t like any in camera 709 look, I think they all look like shit.  My SOP is to take a LOG image down the SDI and make my own 709 that I think fits for each type of show.  It’s mainly only on commercials or short form content that I let the in camera 709 play.  This is true with Arri (which is more yellow) and Red (which is more green), so my thoughts on Sony’s 709 isn’t any different.
 
-Here’s the 709TypeA.[![](/assets/images/sony-venice-review-4ab31-venice_typea_1.1.1-1024x576-1.jpg)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/b9fe1-venice_typea_1.1.1.jpg)Here’s what I came up with.[![](/assets/images/sony-venice-review-ed07c-venice_charlielut_1.1.2-1024x576-1.jpg)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/29557-venice_charlielut_1.1.2.jpg)
+Here’s the 709TypeA.[![]({{ site.baseurl }}/assets/images/sony-venice-review-4ab31-venice_typea_1.1.1-1024x576-1.jpg)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/b9fe1-venice_typea_1.1.1.jpg)Here’s what I came up with.[![]({{ site.baseurl }}/assets/images/sony-venice-review-ed07c-venice_charlielut_1.1.2-1024x576-1.jpg)](https://dorkinatent.wordpress.com/wp-content/uploads/2020/05/29557-venice_charlielut_1.1.2.jpg)
 
 Mine is tweaked to make the skintones pop as well as take out that green hue that’s in the shadows.  The TypeA is okay, but I prefer my version.  To each their own.
 
@@ -33,7 +33,7 @@ Seeing that I was unable to go to the checkout at [AbelCine Brookyn](https://www
 
 I was extremely surprised.
 
-![D1-PictureDay-BTS-0144.jpg](/assets/images/sony-venice-review-cf79c-d1-pictureday-bts-0144-228166255-1523715356289.jpg)![D1-PictureDay-BTS-0215.jpg](/assets/images/sony-venice-review-0f4c0-d1-pictureday-bts-0215.jpg)![D1-PictureDay-BTS-0218.jpg](/assets/images/sony-venice-review-6a0bf-d1-pictureday-bts-0218.jpg)
+![D1-PictureDay-BTS-0144.jpg]({{ site.baseurl }}/assets/images/sony-venice-review-cf79c-d1-pictureday-bts-0144-228166255-1523715356289.jpg)![D1-PictureDay-BTS-0215.jpg]({{ site.baseurl }}/assets/images/sony-venice-review-0f4c0-d1-pictureday-bts-0215.jpg)![D1-PictureDay-BTS-0218.jpg]({{ site.baseurl }}/assets/images/sony-venice-review-6a0bf-d1-pictureday-bts-0218.jpg)
 
 Take a look for yourself, I think you’ll be surprised to see that there isn’t any artifacting, nor is there any banding in the highlights.  The skin tones look pretty spot on and the color representation from slog3 really hits the nail on the head here.
 
@@ -96,220 +96,220 @@ margin-left: 0;
 }
 /\* see gallery\_shortcode() in wp-includes/media.php \*/
 
-[![](/assets/images/sony-venice-review-71148-d1-pictureday-bts-1388.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1388/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-71148-d1-pictureday-bts-1388.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1388/)
 
-[![](/assets/images/sony-venice-review-f43cb-d1-pictureday-bts-1402.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1402/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-f43cb-d1-pictureday-bts-1402.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1402/)
 
-[![](/assets/images/sony-venice-review-65364-d1-pictureday-bts-1411.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1411/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-65364-d1-pictureday-bts-1411.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1411/)
 
-[![](/assets/images/sony-venice-review-645ce-d1-pictureday-bts-1421.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1421/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-645ce-d1-pictureday-bts-1421.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1421/)
 
-[![](/assets/images/sony-venice-review-d23cd-d1-pictureday-bts-1434.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1434/)
-
-  
-
-[![](/assets/images/sony-venice-review-20093-d1-pictureday-bts-1445.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1445/)
-
-[![](/assets/images/sony-venice-review-dfe52-d1-pictureday-bts-1449.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1449/)
-
-[![](/assets/images/sony-venice-review-d131b-d1-pictureday-bts-1466.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1466/)
-
-[![](/assets/images/sony-venice-review-3a17c-d1-pictureday-bts-1473.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1473/)
-
-[![](/assets/images/sony-venice-review-24d81-d1-pictureday-bts-1482.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1482/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-d23cd-d1-pictureday-bts-1434.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1434/)
 
   
 
-[![](/assets/images/sony-venice-review-d4100-d2-pictureday-bts-1523.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1523/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-20093-d1-pictureday-bts-1445.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1445/)
 
-[![](/assets/images/sony-venice-review-6de3d-d2-pictureday-bts-1529.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1529/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-dfe52-d1-pictureday-bts-1449.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1449/)
 
-[![](/assets/images/sony-venice-review-29783-d2-pictureday-bts-1554.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1554/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-d131b-d1-pictureday-bts-1466.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1466/)
 
-[![](/assets/images/sony-venice-review-742dd-d2-pictureday-bts-1561.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1561/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-3a17c-d1-pictureday-bts-1473.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1473/)
 
-[![](/assets/images/sony-venice-review-667b0-d2-pictureday-bts-1564.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1564/)
-
-  
-
-[![](/assets/images/sony-venice-review-47861-d2-pictureday-bts-1574.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1574/)
-
-[![](/assets/images/sony-venice-review-c60ba-d2-pictureday-bts-1587.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1587/)
-
-[![](/assets/images/sony-venice-review-42075-d2-pictureday-bts-1612.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1612/)
-
-[![](/assets/images/sony-venice-review-e493f-d2-pictureday-bts-1653.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1653/)
-
-[![](/assets/images/sony-venice-review-83219-d2-pictureday-bts-1662.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1662/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-24d81-d1-pictureday-bts-1482.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1482/)
 
   
 
-[![](/assets/images/sony-venice-review-e415f-d2-pictureday-bts-1686.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1686/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-d4100-d2-pictureday-bts-1523.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1523/)
 
-[![](/assets/images/sony-venice-review-03934-d2-pictureday-bts-1695.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1695/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-6de3d-d2-pictureday-bts-1529.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1529/)
 
-[![](/assets/images/sony-venice-review-461f6-d2-pictureday-bts-1749.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1749/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-29783-d2-pictureday-bts-1554.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1554/)
 
-[![](/assets/images/sony-venice-review-194bd-d2-pictureday-bts-1758.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1758/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-742dd-d2-pictureday-bts-1561.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1561/)
 
-[![](/assets/images/sony-venice-review-2b312-d2-pictureday-bts-1793.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1793/)
-
-  
-
-[![](/assets/images/sony-venice-review-b21a0-d2-pictureday-bts-1852.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1852/)
-
-[![](/assets/images/sony-venice-review-0ecce-d2-pictureday-bts-1875.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1875/)
-
-[![](/assets/images/sony-venice-review-973ae-d1-pictureday-bts-0044.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0044/)
-
-[![](/assets/images/sony-venice-review-b7f09-d1-pictureday-bts-0050.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0050/)
-
-[![](/assets/images/sony-venice-review-a77db-d1-pictureday-bts-0071.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0071/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-667b0-d2-pictureday-bts-1564.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1564/)
 
   
 
-[![](/assets/images/sony-venice-review-a5a8b-d1-pictureday-bts-0073.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0073/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-47861-d2-pictureday-bts-1574.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1574/)
 
-[![](/assets/images/sony-venice-review-113ae-d1-pictureday-bts-0075.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0075/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-c60ba-d2-pictureday-bts-1587.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1587/)
 
-[![](/assets/images/sony-venice-review-64028-d1-pictureday-bts-0077.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0077/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-42075-d2-pictureday-bts-1612.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1612/)
 
-[![](/assets/images/sony-venice-review-40120-d1-pictureday-bts-0106.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0106/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-e493f-d2-pictureday-bts-1653.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1653/)
 
-[![](/assets/images/sony-venice-review-471d1-d1-pictureday-bts-0190.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0190/)
-
-  
-
-[![](/assets/images/sony-venice-review-a51fc-d1-pictureday-bts-0193.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0193/)
-
-[![](/assets/images/sony-venice-review-d45fd-d1-pictureday-bts-0220-1.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0220-2/)
-
-[![](/assets/images/sony-venice-review-87f9d-d1-pictureday-bts-0259.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0259/)
-
-[![](/assets/images/sony-venice-review-c8aac-d1-pictureday-bts-0278.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0278/)
-
-[![](/assets/images/sony-venice-review-c031d-d1-pictureday-bts-0282-1.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0282-2/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-83219-d2-pictureday-bts-1662.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1662/)
 
   
 
-[![](/assets/images/sony-venice-review-e5e2d-d1-pictureday-bts-0310.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0310/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-e415f-d2-pictureday-bts-1686.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1686/)
 
-[![](/assets/images/sony-venice-review-41318-d1-pictureday-bts-0369.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0369/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-03934-d2-pictureday-bts-1695.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1695/)
 
-[![](/assets/images/sony-venice-review-20f1c-d1-pictureday-bts-0389.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0389/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-461f6-d2-pictureday-bts-1749.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1749/)
 
-[![](/assets/images/sony-venice-review-c6fb9-d1-pictureday-bts-0417.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0417/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-194bd-d2-pictureday-bts-1758.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1758/)
 
-[![](/assets/images/sony-venice-review-47645-d1-pictureday-bts-0432.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0432/)
-
-  
-
-[![](/assets/images/sony-venice-review-bea25-d1-pictureday-bts-0440.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0440/)
-
-[![](/assets/images/sony-venice-review-cf6df-d1-pictureday-bts-0452.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0452/)
-
-[![](/assets/images/sony-venice-review-26a07-d1-pictureday-bts-0463.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0463/)
-
-[![](/assets/images/sony-venice-review-74257-d1-pictureday-bts-0486.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0486/)
-
-[![](/assets/images/sony-venice-review-69b03-d1-pictureday-bts-0498.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0498/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-2b312-d2-pictureday-bts-1793.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1793/)
 
   
 
-[![](/assets/images/sony-venice-review-de8a2-d1-pictureday-bts-0515.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0515/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-b21a0-d2-pictureday-bts-1852.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1852/)
 
-[![](/assets/images/sony-venice-review-e5607-d1-pictureday-bts-0522.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0522/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-0ecce-d2-pictureday-bts-1875.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d2-pictureday-bts-1875/)
 
-[![](/assets/images/sony-venice-review-8c503-d1-pictureday-bts-0527.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0527/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-973ae-d1-pictureday-bts-0044.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0044/)
 
-[![](/assets/images/sony-venice-review-a5866-d1-pictureday-bts-0561.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0561/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-b7f09-d1-pictureday-bts-0050.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0050/)
 
-[![](/assets/images/sony-venice-review-daaed-d1-pictureday-bts-0603.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0603/)
-
-  
-
-[![](/assets/images/sony-venice-review-8b9fe-d1-pictureday-bts-0617.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0617/)
-
-[![](/assets/images/sony-venice-review-73756-d1-pictureday-bts-0656.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0656/)
-
-[![](/assets/images/sony-venice-review-022d1-d1-pictureday-bts-0674.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0674/)
-
-[![](/assets/images/sony-venice-review-d07ed-d1-pictureday-bts-0706.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0706/)
-
-[![](/assets/images/sony-venice-review-23427-d1-pictureday-bts-0747.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0747/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-a77db-d1-pictureday-bts-0071.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0071/)
 
   
 
-[![](/assets/images/sony-venice-review-f789a-d1-pictureday-bts-0797.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0797/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-a5a8b-d1-pictureday-bts-0073.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0073/)
 
-[![](/assets/images/sony-venice-review-39f4a-d1-pictureday-bts-0815.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0815/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-113ae-d1-pictureday-bts-0075.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0075/)
 
-[![](/assets/images/sony-venice-review-b3e21-d1-pictureday-bts-0844.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0844/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-64028-d1-pictureday-bts-0077.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0077/)
 
-[![](/assets/images/sony-venice-review-1207d-d1-pictureday-bts-0854.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0854/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-40120-d1-pictureday-bts-0106.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0106/)
 
-[![](/assets/images/sony-venice-review-9ec76-d1-pictureday-bts-0884.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0884/)
-
-  
-
-[![](/assets/images/sony-venice-review-1d8c2-d1-pictureday-bts-0897.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0897/)
-
-[![](/assets/images/sony-venice-review-da8a5-d1-pictureday-bts-0915.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0915/)
-
-[![](/assets/images/sony-venice-review-8d3f2-d1-pictureday-bts-0929.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0929/)
-
-[![](/assets/images/sony-venice-review-b57a7-d1-pictureday-bts-0938.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0938/)
-
-[![](/assets/images/sony-venice-review-8069d-d1-pictureday-bts-0990.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0990/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-471d1-d1-pictureday-bts-0190.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0190/)
 
   
 
-[![](/assets/images/sony-venice-review-f3a25-d1-pictureday-bts-0999.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0999/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-a51fc-d1-pictureday-bts-0193.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0193/)
 
-[![](/assets/images/sony-venice-review-38ac1-d1-pictureday-bts-1008.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1008/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-d45fd-d1-pictureday-bts-0220-1.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0220-2/)
 
-[![](/assets/images/sony-venice-review-632b9-d1-pictureday-bts-1035.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1035/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-87f9d-d1-pictureday-bts-0259.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0259/)
 
-[![](/assets/images/sony-venice-review-a0f75-d1-pictureday-bts-1038.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1038/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-c8aac-d1-pictureday-bts-0278.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0278/)
 
-[![](/assets/images/sony-venice-review-c5717-d1-pictureday-bts-1046.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1046/)
-
-  
-
-[![](/assets/images/sony-venice-review-f5dde-d1-pictureday-bts-1082.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1082/)
-
-[![](/assets/images/sony-venice-review-992e8-d1-pictureday-bts-1085.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1085/)
-
-[![](/assets/images/sony-venice-review-c82f6-d1-pictureday-bts-1094.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1094/)
-
-[![](/assets/images/sony-venice-review-e2da8-d1-pictureday-bts-1098.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1098/)
-
-[![](/assets/images/sony-venice-review-52940-d1-pictureday-bts-1140.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1140/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-c031d-d1-pictureday-bts-0282-1.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0282-2/)
 
   
 
-[![](/assets/images/sony-venice-review-72bbf-d1-pictureday-bts-1167.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1167/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-e5e2d-d1-pictureday-bts-0310.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0310/)
 
-[![](/assets/images/sony-venice-review-8affd-d1-pictureday-bts-1237.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1237/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-41318-d1-pictureday-bts-0369.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0369/)
 
-[![](/assets/images/sony-venice-review-6a652-d1-pictureday-bts-1274.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1274/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-20f1c-d1-pictureday-bts-0389.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0389/)
 
-[![](/assets/images/sony-venice-review-795a4-d1-pictureday-bts-1288.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1288/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-c6fb9-d1-pictureday-bts-0417.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0417/)
 
-[![](/assets/images/sony-venice-review-8b773-d1-pictureday-bts-1289.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1289/)
-
-  
-
-[![](/assets/images/sony-venice-review-7763c-d1-pictureday-bts-1301.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1301/)
-
-[![](/assets/images/sony-venice-review-6ef4f-d1-pictureday-bts-1316.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1316/)
-
-[![](/assets/images/sony-venice-review-eab91-d1-pictureday-bts-1336.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1336/)
-
-[![](/assets/images/sony-venice-review-0f2cd-d1-pictureday-bts-1344.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1344/)
-
-[![](/assets/images/sony-venice-review-24973-d1-pictureday-bts-1360.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1360/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-47645-d1-pictureday-bts-0432.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0432/)
 
   
 
-[![](/assets/images/sony-venice-review-34693-d1-pictureday-bts-1364.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1364/)
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-bea25-d1-pictureday-bts-0440.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0440/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-cf6df-d1-pictureday-bts-0452.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0452/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-26a07-d1-pictureday-bts-0463.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0463/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-74257-d1-pictureday-bts-0486.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0486/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-69b03-d1-pictureday-bts-0498.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0498/)
+
+  
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-de8a2-d1-pictureday-bts-0515.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0515/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-e5607-d1-pictureday-bts-0522.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0522/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-8c503-d1-pictureday-bts-0527.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0527/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-a5866-d1-pictureday-bts-0561.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0561/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-daaed-d1-pictureday-bts-0603.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0603/)
+
+  
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-8b9fe-d1-pictureday-bts-0617.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0617/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-73756-d1-pictureday-bts-0656.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0656/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-022d1-d1-pictureday-bts-0674.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0674/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-d07ed-d1-pictureday-bts-0706.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0706/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-23427-d1-pictureday-bts-0747.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0747/)
+
+  
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-f789a-d1-pictureday-bts-0797.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0797/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-39f4a-d1-pictureday-bts-0815.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0815/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-b3e21-d1-pictureday-bts-0844.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0844/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-1207d-d1-pictureday-bts-0854.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0854/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-9ec76-d1-pictureday-bts-0884.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0884/)
+
+  
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-1d8c2-d1-pictureday-bts-0897.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0897/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-da8a5-d1-pictureday-bts-0915.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0915/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-8d3f2-d1-pictureday-bts-0929.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0929/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-b57a7-d1-pictureday-bts-0938.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0938/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-8069d-d1-pictureday-bts-0990.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0990/)
+
+  
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-f3a25-d1-pictureday-bts-0999.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-0999/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-38ac1-d1-pictureday-bts-1008.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1008/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-632b9-d1-pictureday-bts-1035.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1035/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-a0f75-d1-pictureday-bts-1038.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1038/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-c5717-d1-pictureday-bts-1046.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1046/)
+
+  
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-f5dde-d1-pictureday-bts-1082.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1082/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-992e8-d1-pictureday-bts-1085.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1085/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-c82f6-d1-pictureday-bts-1094.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1094/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-e2da8-d1-pictureday-bts-1098.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1098/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-52940-d1-pictureday-bts-1140.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1140/)
+
+  
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-72bbf-d1-pictureday-bts-1167.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1167/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-8affd-d1-pictureday-bts-1237.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1237/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-6a652-d1-pictureday-bts-1274.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1274/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-795a4-d1-pictureday-bts-1288.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1288/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-8b773-d1-pictureday-bts-1289.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1289/)
+
+  
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-7763c-d1-pictureday-bts-1301.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1301/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-6ef4f-d1-pictureday-bts-1316.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1316/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-eab91-d1-pictureday-bts-1336.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1336/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-0f2cd-d1-pictureday-bts-1344.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1344/)
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-24973-d1-pictureday-bts-1360.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1360/)
+
+  
+
+[![]({{ site.baseurl }}/assets/images/sony-venice-review-34693-d1-pictureday-bts-1364.jpg)](https://dorkinatent.wordpress.com/2018/04/21/sony-venice-review/d1-pictureday-bts-1364/)

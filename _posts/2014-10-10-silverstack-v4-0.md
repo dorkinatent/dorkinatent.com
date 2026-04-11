@@ -14,25 +14,25 @@ I really like this new clean interface with v4.  It feels very iOS-like and it�
 
 ### New UI:
 
-![Screen Shot 2014-09-30 at 11.37.56 AM](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-37-56-am.png)
+![Screen Shot 2014-09-30 at 11.37.56 AM]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-37-56-am.png)
 
 ### Older UI:
 
-[![2](/assets/images/silverstack-v4-0-2.png)](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-37-56-am.png)
+[![2]({{ site.baseurl }}/assets/images/silverstack-v4-0-2.png)]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-37-56-am.png)
 
 I really like how it’s all laid out, not very cluttered at all.  I really like having the jobs be in an easy to reach yet not totally distracting on the main layout.  Personally I never use the volumes tab in the old version so I like that the left side is just the folder structure in which I can clearly see how everything is laid out.
 
 I really like how there’s a progress bar at the bottom, which keeps it nice and clean
 
-[![Screen Shot 2014-09-30 at 12.00.52 PM](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-12-00-52-pm.png)](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-12-00-52-pm.png)
+[![Screen Shot 2014-09-30 at 12.00.52 PM]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-12-00-52-pm.png)]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-12-00-52-pm.png)
 
 The project name and the ability to switch between projects are now displayed at the top:
 
-[![Screen Shot 2014-09-30 at 12.03.19 PM](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-12-03-19-pm.png)](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-12-03-19-pm.png)
+[![Screen Shot 2014-09-30 at 12.03.19 PM]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-12-03-19-pm.png)]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-12-03-19-pm.png)
 
 And there’s now a section at the bottom right part of the screen which tells you of all your jobs are okay or not, in a very clear and easy color coded section:
 
-[![Screen Shot 2014-10-10 at 12.08.16 PM](/assets/images/silverstack-v4-0-screen-shot-2014-10-10-at-12-08-16-pm.png)](/assets/images/silverstack-v4-0-screen-shot-2014-10-10-at-12-08-16-pm.png)
+[![Screen Shot 2014-10-10 at 12.08.16 PM]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-10-10-at-12-08-16-pm.png)]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-10-10-at-12-08-16-pm.png)
 
 ### XXHash
 
@@ -42,21 +42,21 @@ Here’s a few examples between MD5 and XXhash from a Echo Express Pro to a USB3
 
 ### MD5 offload times (v3)
 
-[![Screen Shot 2014-09-30 at 11.53.23 AM](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-53-23-am.png)](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-53-23-am.png)
+[![Screen Shot 2014-09-30 at 11.53.23 AM]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-53-23-am.png)]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-53-23-am.png)
 
 ### XXHash offload times (v4)
 
-[![Screen Shot 2014-09-30 at 11.59.38 AM](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-59-38-am.png)](/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-59-38-am.png)
+[![Screen Shot 2014-09-30 at 11.59.38 AM]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-59-38-am.png)]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-09-30-at-11-59-38-am.png)
 
 It’s pretty significant in the differences (almost half from the previous version of Silverstack).  Here’s a test with the same card using XXHash, MD5, File size verification, and Cascading Copy with XXHash (more on this later) in that order.  Seems like XXHash is slightly faster with version 4 but still, over time it would be a good benefit to have IMO.
 
-[![3](/assets/images/silverstack-v4-0-3.png)](/assets/images/silverstack-v4-0-3.png)
+[![3]({{ site.baseurl }}/assets/images/silverstack-v4-0-3.png)]({{ site.baseurl }}/assets/images/silverstack-v4-0-3.png)
 
 I really like that they implemented File Size verification.  While I don’t recommend using it very often but sometimes it’s a necessity when you’re shooting a TON of footage (or with ArriRaw) and you have to offload cards quickly and efficiently but you don’t want to use finder to drag and drop because you want the organization and ability to generate reports and what not via Silverstack.  That’s when I use file size verification.  It’s fast and still allows you to ingest the media without having to wait longer for the checksum (you can also just import the media into Silverstack without actually using it to do the copy if you want, such as if you’re just sending cards to a post house for offloading and backing up, but if you’re doing the downloading I would avoid using finder at all costs since Silverstack now has this option).
 
 ### Cascading copy
 
-[![Screen Shot 2014-10-10 at 11.31.23 AM](/assets/images/silverstack-v4-0-screen-shot-2014-10-10-at-11-31-23-am.png)](/assets/images/silverstack-v4-0-screen-shot-2014-10-10-at-11-31-23-am.png)
+[![Screen Shot 2014-10-10 at 11.31.23 AM]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-10-10-at-11-31-23-am.png)]({{ site.baseurl }}/assets/images/silverstack-v4-0-screen-shot-2014-10-10-at-11-31-23-am.png)
 
 I will say right now that I like the idea of cascading copy but I DO NOT recommend using it, EVER.  Here’s why.
 

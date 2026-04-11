@@ -24,7 +24,7 @@ We have a 512GB Codex mag which holds about 50 minutes of 3k footage (on a 16:9 
 
 Pomfort gave me a beta for the new Silverstack and I have to say I’m liking it so far! I love the silverstack organization and love that I can keep my sound files, SxS and Raw all within the same program and be able to access any of the data at the same time (data in terms of raw data, not playback, there’s no playback support of .ari files in silverstack yet, however you can get GlueTools to preview it).
 
-[![Screen Shot 2013-03-12 at 9.33.13 AM](/assets/images/working-with-arriraw-on-a-laptop-screen-shot-2013-03-12-at-9-33-13-am.png)](/assets/images/working-with-arriraw-on-a-laptop-screen-shot-2013-03-12-at-9-33-13-am.png)
+[![Screen Shot 2013-03-12 at 9.33.13 AM]({{ site.baseurl }}/assets/images/working-with-arriraw-on-a-laptop-screen-shot-2013-03-12-at-9-33-13-am.png)]({{ site.baseurl }}/assets/images/working-with-arriraw-on-a-laptop-screen-shot-2013-03-12-at-9-33-13-am.png)
 
 Since we’re doing 4 rolls per codex mag, I tend to offload each SxS reel in silverstack so I have the ability to track each roll instead of each mag, it makes for keeping track of shots a lot easier (if that’s not too confusing).  If time permits I’ll use Silverstack to offload the Arriraw as well, but almost always I’m pressed for time and so I just revert to using finder for my primary copy.
 
@@ -36,7 +36,7 @@ What I would recommend, for every job, is to request a specific day of prep to g
 
 So I have a Blackmagic Design Smart Videohub that takes a signal in from each camera (up to 3), sends that to each of my HDLinkPros (again, one for each camera, up to 3), then sends a colored signal to my PVM-2541 and then a log signal to my Flanders so I can monitor the raw image at the same time as I’m setting my LUTs (very handy as I constantly check to see what is clipping and what not).
 
-[![Screen Shot 2013-04-05 at 7.25.58 PM](/assets/images/working-with-arriraw-on-a-laptop-screen-shot-2013-04-05-at-7-25-58-pm.png)](/assets/images/working-with-arriraw-on-a-laptop-screen-shot-2013-04-05-at-7-25-58-pm.png)
+[![Screen Shot 2013-04-05 at 7.25.58 PM]({{ site.baseurl }}/assets/images/working-with-arriraw-on-a-laptop-screen-shot-2013-04-05-at-7-25-58-pm.png)]({{ site.baseurl }}/assets/images/working-with-arriraw-on-a-laptop-screen-shot-2013-04-05-at-7-25-58-pm.png)
 
 I’m also routing the LUTed signal to my UltraStudio Express in which I can take screenshots of the setups and then display that back onto either monitor so that I can match shots more effectively, all through Media Express.  A really awesome feature to have! It’s been extremely helpful when you’re trying to match a shot from the beginning of the day at the end of the day, or even a few days apart!
 

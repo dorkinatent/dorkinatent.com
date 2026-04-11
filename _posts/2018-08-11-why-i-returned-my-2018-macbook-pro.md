@@ -25,7 +25,7 @@ Also if you’re looking for a more comprehensive test other than what I’m doi
 
 Here’s the cost breakdown (it says refund because that’s what I have on my account at the moment):
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-2c5be-capture3.png)](/assets/images/why-i-returned-my-2018-macbook-pro-2c5be-capture3.png)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-2c5be-capture3.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-2c5be-capture3.png)
 
 I had a 2 minute 39 second 8KWS .r3d file from a  music video that I shot to use as my work file for this test, as well as a 2 minute arriraw file (not as curious about this as red files are more power hungry and thus more of what I’m interested in for true dailies work off a laptop.  This laptop does a very good job with ProRes files, around 80fps, but I knew that and wasn’t quite interested in testing that).
 
@@ -33,13 +33,13 @@ I wanted to encode to two different file types: 1920×1080 @ 422 (what I deliver
 
 Here are the settings to confirm.
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-dd8ff-screen-shot-2018-07-28-at-6.13.52-pm.png)](/assets/images/why-i-returned-my-2018-macbook-pro-dd8ff-screen-shot-2018-07-28-at-6.13.52-pm.png)[![](/assets/images/why-i-returned-my-2018-macbook-pro-c25ea-screen-shot-2018-07-28-at-6.14.01-pm.png)](/assets/images/why-i-returned-my-2018-macbook-pro-c25ea-screen-shot-2018-07-28-at-6.14.01-pm.png)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-dd8ff-screen-shot-2018-07-28-at-6.13.52-pm.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-dd8ff-screen-shot-2018-07-28-at-6.13.52-pm.png)[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-c25ea-screen-shot-2018-07-28-at-6.14.01-pm.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-c25ea-screen-shot-2018-07-28-at-6.14.01-pm.png)
 
 I rendered on both the 2018 mbp & 2013 mp fro the desktop & to the desktop, taking advantage of both of the screaming fast  internal SSDs.
 
 Here are the specs for both (sorry for the potato quality, it’s all I have)
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-35833-photo-jul-28-6-04-58-pm.jpg)](/assets/images/why-i-returned-my-2018-macbook-pro-35833-photo-jul-28-6-04-58-pm.jpg)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-35833-photo-jul-28-6-04-58-pm.jpg)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-35833-photo-jul-28-6-04-58-pm.jpg)
 
 Interestingly enough it only shows the non-discrete gpu and not the internal raedon 560 on the laptop.
 
@@ -49,15 +49,15 @@ Here’s the result.
 
 2013 Mac Pro
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-8fc16-photo-jul-28-6-29-34-pm.png)](/assets/images/why-i-returned-my-2018-macbook-pro-8fc16-photo-jul-28-6-29-34-pm.png)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-8fc16-photo-jul-28-6-29-34-pm.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-8fc16-photo-jul-28-6-29-34-pm.png)
 
 2018 MacBook Pro
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-7884f-photo-jul-28-6-40-34-pm.png)](/assets/images/why-i-returned-my-2018-macbook-pro-7884f-photo-jul-28-6-40-34-pm.png)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-7884f-photo-jul-28-6-40-34-pm.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-7884f-photo-jul-28-6-40-34-pm.png)
 
 2018 MacBook Pro w/ Blackmagic eGPU (Radeon Pro 580)
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-70a04-photo-aug-03-2-29-26-pm.jpg)](/assets/images/why-i-returned-my-2018-macbook-pro-70a04-photo-aug-03-2-29-26-pm.jpg)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-70a04-photo-aug-03-2-29-26-pm.jpg)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-70a04-photo-aug-03-2-29-26-pm.jpg)
 
 I found it intriguing that the eGPU only reduces render times by a minute.  I’m sure if you had additional eGPUs added to the system it could really crank through some footage.
 
@@ -65,11 +65,11 @@ Next up was H624 encoding, which I tend to do a lot of.  I learned that the int
 
 2013 Mac Pro
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-9c905-photo-jul-28-8-06-03-pm.png)](/assets/images/why-i-returned-my-2018-macbook-pro-9c905-photo-jul-28-8-06-03-pm.png)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-9c905-photo-jul-28-8-06-03-pm.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-9c905-photo-jul-28-8-06-03-pm.png)
 
 2018 MacBook Pro
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-5151e-photo-jul-28-7-50-23-pm.png)](/assets/images/why-i-returned-my-2018-macbook-pro-5151e-photo-jul-28-7-50-23-pm.png)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-5151e-photo-jul-28-7-50-23-pm.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-5151e-photo-jul-28-7-50-23-pm.png)
 
 Ultimately I came to the conclusion that spending $4500 on a laptop (+$700 for the eGPU, and another $400 for TB3 peripherals/usb-c hubs, AND I don’t like the absence of the legacy ports, I need a damn USB port ) , while it is a nice laptop, isn’t worth it for what I need. I even tried playing Guild Wars 2 on the mbp and at max settings I was getting ~12fps.  I gave Fortnite a try and literally [couldn’t load a game for 30 minutes](https://www.instagram.com/p/Bl9ufzZnBDd/?taken-by=vvash), and when I was able to load in it couldn’t sustain a measly 30 fps on LOW settings.
 
@@ -85,9 +85,9 @@ I decide to buy it and give it a shot.  If anything it would be my everyday lap
 
 I also wanted to give this laptop the same test from the mbp & mac pro.  So here is the result of that, with encoding to DNxHR instead of ProRes:
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-f19e9-capture2.png)](/assets/images/why-i-returned-my-2018-macbook-pro-f19e9-capture2.png)[![](/assets/images/why-i-returned-my-2018-macbook-pro-67f46-capture1.png)](/assets/images/why-i-returned-my-2018-macbook-pro-67f46-capture1.png)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-f19e9-capture2.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-f19e9-capture2.png)[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-67f46-capture1.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-67f46-capture1.png)
 
-[![](/assets/images/why-i-returned-my-2018-macbook-pro-883e9-razer_resolve.png)](/assets/images/why-i-returned-my-2018-macbook-pro-883e9-razer_resolve.png)
+[![]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-883e9-razer_resolve.png)]({{ site.baseurl }}/assets/images/why-i-returned-my-2018-macbook-pro-883e9-razer_resolve.png)
 
 Pretty much the same render times as the $4500 mbp, minus ProRes (there’s a hack to be able to render to prores, but it’s a pain in the ass.  Alternatively there’s Scratch that will render to ProRes in a pinch). This thing has a TB3 port in it also, so would be interesting to see if I put a 1080ti in a eGPU enclosure what the render times would be (probably a minute less).
 
