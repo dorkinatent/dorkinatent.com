@@ -19,7 +19,7 @@ When you run this app it’s going to prompt you 4 times.
 
 Here’s how it should look:
 
-![Screen Shot 2017-07-27 at 3.13.58 PM.png]({{ site.baseurl }}/assets/images/lightiron-folder-structure-b3b12-screen-shot-2017-07-27-at-3.13.58-pm.png)
+![Screen Shot 2017-07-27 at 3.13.58 PM.png](/assets/images/lightiron-folder-structure-b3b12-screen-shot-2017-07-27-at-3.13.58-pm.png)
 
 The actual app on my DIT cart only prompts me twice, once for the day number and once for the shuttle drive (because my raid and desktop folder never changes, but the shuttle drive does). I suppose later on I could have it automatically look for the previous days, assume what day it is based on the previous days number, get that string value and then increase the number by 1 and completely automate the process so I only have to make an input selection once (for day001)  with the option to opt out, but that’s for another time.  Add it to my to-do list!
 

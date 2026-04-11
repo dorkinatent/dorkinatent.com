@@ -23,31 +23,31 @@ I’ve done a few projects now with LiveGrade2 (LG2 from here on out) and I have
 
 The interface is pretty awesome.
 
-[![Screen Shot 2014-07-26 at 8.28.01 AM]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-8-28-01-am1.png)]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-8-28-01-am1.png)
+[![Screen Shot 2014-07-26 at 8.28.01 AM](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-8-28-01-am1.png)](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-8-28-01-am1.png)
 
 One of the things that I LOVE about version 2 is this:
 
-[![Screen Shot 2014-07-26 at 8.26.33 AM]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-8-26-33-am.png)]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-8-26-33-am.png)
+[![Screen Shot 2014-07-26 at 8.26.33 AM](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-8-26-33-am.png)](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-8-26-33-am.png)
 
 That “apply the last grade when LiveGrade starts” is CLUTCH!  I can’t tell you how many times I’ve accidentally quit (or have my computer freeze and need to force restart) LG1 during a shot and then have to make an adjustment immediately afterwards, but not be able to do anything about it.  LG1 would reset the grades upon startup, and if you’re like me and like to have a LOG signal coming out from the camera AND you’re feeding video village, then it’s no good to have the signal reset in the middle of the take, especially if it’s the director or producers watching.
 
 The remote app is pretty fantastic as well, but it’s only limited to applying different pre-made LUTs and enabling the False color, original signal, bypass color, & graded signals.  Also you can’t access any of the created groups too (such as previous days) which is kind of a bummer, but hopefully it’ll be there soon.
 
-[![Photo Jul 26, 8 57 57 AM]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-photo-jul-26-8-57-57-am.png)]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-photo-jul-26-8-57-57-am.png) [![Photo Jul 26, 8 58 01 AM]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-photo-jul-26-8-58-01-am.png)]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-photo-jul-26-8-58-01-am.png)
+[![Photo Jul 26, 8 57 57 AM](/assets/images/a-few-months-of-dit-work-photo-jul-26-8-57-57-am.png)](/assets/images/a-few-months-of-dit-work-photo-jul-26-8-57-57-am.png) [![Photo Jul 26, 8 58 01 AM](/assets/images/a-few-months-of-dit-work-photo-jul-26-8-58-01-am.png)](/assets/images/a-few-months-of-dit-work-photo-jul-26-8-58-01-am.png)
 
 The modes are the same still, but have a new look and feel to them AND they’ve implemented ACES, which is fantastic!
 
-[![Screen Shot 2014-07-26 at 9.14.49 AM]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-49-am.png)]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-49-am.png) [![Screen Shot 2014-07-26 at 9.14.33 AM]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-33-am.png)]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-33-am.png) [![Screen Shot 2014-07-26 at 9.14.39 AM]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-39-am.png)]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-39-am.png)
+[![Screen Shot 2014-07-26 at 9.14.49 AM](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-49-am.png)](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-49-am.png) [![Screen Shot 2014-07-26 at 9.14.33 AM](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-33-am.png)](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-33-am.png) [![Screen Shot 2014-07-26 at 9.14.39 AM](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-39-am.png)](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-39-am.png)
 
 I really like the ACES mode, haven’t had a job come up in which I can use it, but just playing around with it on The Outskirts, it really looks nice with the Alexa.
 
 The Device manager for the LUT boxes is pretty awesome too.
 
-[![Screen Shot 2014-07-26 at 9.14.58 AM]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-58-am1.png)]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-58-am1.png)
+[![Screen Shot 2014-07-26 at 9.14.58 AM](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-58-am1.png)](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-14-58-am1.png)
 
 Very informative and I like that you can group different LUT boxes together so you can apply 1 look to both boxes and be able to control them both at the same time.  Very nice for multi-cam work.
 
-[![Screen Shot 2014-07-26 at 9.21.03 AM]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-21-03-am.png)]({{ site.baseurl }}/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-21-03-am.png)
+[![Screen Shot 2014-07-26 at 9.21.03 AM](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-21-03-am.png)](/assets/images/a-few-months-of-dit-work-screen-shot-2014-07-26-at-9-21-03-am.png)
 
 One thing I notice a lot is my HDLinks tend to switch the inputs a lot, so A port is B camera and B port is C camera and C port is A camera, even though everything is connected correctly (I use a switcher) it changes constantly.  Might be something with my HDLinks but not sure if it’s a LG2 thing or not.
 

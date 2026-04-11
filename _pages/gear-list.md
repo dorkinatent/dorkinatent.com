@@ -6,7 +6,7 @@ permalink: /gear-list/
 
 **This is my current setup:**
 
-![DSCF0955]({{ site.baseurl }}/assets/images/gear-list-dscf0955.jpg)
+![DSCF0955](/assets/images/gear-list-dscf0955.jpg)
 
 - Flanders CM250 25′ OLED
 - Flanders CM250 25″ OLED

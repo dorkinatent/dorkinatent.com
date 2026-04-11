@@ -14,7 +14,7 @@ After using dual card readers on The Good Cop, I won’t ever go back to single 
 
 Here’s real world examples of why I do one transfer at a time.  The top two are two mags offloaded one then the other, queued up within silverstack. The bottom two are offloading at the same time to the same destination. The two cards with one at a time took about 36 minutes.  With both going at the same time it was about 47 minutes, almost 10 more minutes more for the same amount of data.
 
-![Screen Shot 2018-03-30 at 4.08.49 PM.png]({{ site.baseurl }}/assets/images/the-weakest-link-4cc16-screen-shot-2018-03-30-at-4.08.49-pm.png)
+![Screen Shot 2018-03-30 at 4.08.49 PM.png](/assets/images/the-weakest-link-4cc16-screen-shot-2018-03-30-at-4.08.49-pm.png)
 
 So with wanting to find a dual card reader that works with CFast2.0, the only option I found was this one:
 
@@ -38,9 +38,9 @@ PSA: The TB3 to TB2 adapter ONLY works on macOS 10.12 or later
 
 But would it play nice? In fact it would! Here are the speed tests from my 8TB SSD raid vs my 16TB HDD, both in RAID0
 
-![Screen Shot 2018-03-30 at 10.11.16 AM.png]({{ site.baseurl }}/assets/images/the-weakest-link-40382-screen-shot-2018-03-30-at-10.11.16-am.png)
+![Screen Shot 2018-03-30 at 10.11.16 AM.png](/assets/images/the-weakest-link-40382-screen-shot-2018-03-30-at-10.11.16-am.png)
 
-![Screen Shot 2018-03-30 at 10.10.53 AM.png]({{ site.baseurl }}/assets/images/the-weakest-link-fe10a-screen-shot-2018-03-30-at-10.10.53-am.png)
+![Screen Shot 2018-03-30 at 10.10.53 AM.png](/assets/images/the-weakest-link-fe10a-screen-shot-2018-03-30-at-10.10.53-am.png)
 
 That’s almost double the R/W speed for these drives, which is nothing to balk at.
 
@@ -48,19 +48,19 @@ However, when it comes to going home faster at the end of the day, your slowest 
 
 For The Good Cop we only have USB3 readers, and so my bottleneck is limited to whatever the R/W speed of that is, no matter how fast my drives are (interesting thought on this later btw, did a quick test between MD5 & XXHASH and found XXHASH to be only slightly faster).
 
-![Screen Shot 2018-03-30 at 3.19.09 PM.png]({{ site.baseurl }}/assets/images/the-weakest-link-8b570-screen-shot-2018-03-30-at-3.19.09-pm.png)
+![Screen Shot 2018-03-30 at 3.19.09 PM.png](/assets/images/the-weakest-link-8b570-screen-shot-2018-03-30-at-3.19.09-pm.png)
 
 You’ll see in a moment that this is reflected as such in my offload tests, although I found something interesting that I can’t quite explain.  My HDD Raid was faster than my SSD raid, by almost a full minute, which I would have expected the opposite. MD5 checksum used below.
 
-![Screen-Shot-2018-03-30-at-12.02.50-PM.png]({{ site.baseurl }}/assets/images/the-weakest-link-96143-screen-shot-2018-03-30-at-12.02.50-pm-4244735151-1522437939671.png)
+![Screen-Shot-2018-03-30-at-12.02.50-PM.png](/assets/images/the-weakest-link-96143-screen-shot-2018-03-30-at-12.02.50-pm-4244735151-1522437939671.png)
 
 And here it is the same result with XXHASH.
 
-![Screen Shot 2018-03-30 at 12.02.50 PM]({{ site.baseurl }}/assets/images/the-weakest-link-f0942-screen-shot-2018-03-30-at-12.02.50-pm-1-4083634740-1522438023208.png)
+![Screen Shot 2018-03-30 at 12.02.50 PM](/assets/images/the-weakest-link-f0942-screen-shot-2018-03-30-at-12.02.50-pm-1-4083634740-1522438023208.png)
 
 More data here:
 
-![Screen Shot 2018-03-30 at 12.05.31 PM]({{ site.baseurl }}/assets/images/the-weakest-link-9265d-screen-shot-2018-03-30-at-12.05.31-pm.png)![Screen Shot 2018-03-30 at 12.05.36 PM]({{ site.baseurl }}/assets/images/the-weakest-link-7007a-screen-shot-2018-03-30-at-12.05.36-pm.png)![Screen Shot 2018-03-30 at 12.05.41 PM]({{ site.baseurl }}/assets/images/the-weakest-link-95b48-screen-shot-2018-03-30-at-12.05.41-pm.png)![Screen Shot 2018-03-30 at 12.05.47 PM]({{ site.baseurl }}/assets/images/the-weakest-link-daebc-screen-shot-2018-03-30-at-12.05.47-pm.png)
+![Screen Shot 2018-03-30 at 12.05.31 PM](/assets/images/the-weakest-link-9265d-screen-shot-2018-03-30-at-12.05.31-pm.png)![Screen Shot 2018-03-30 at 12.05.36 PM](/assets/images/the-weakest-link-7007a-screen-shot-2018-03-30-at-12.05.36-pm.png)![Screen Shot 2018-03-30 at 12.05.41 PM](/assets/images/the-weakest-link-95b48-screen-shot-2018-03-30-at-12.05.41-pm.png)![Screen Shot 2018-03-30 at 12.05.47 PM](/assets/images/the-weakest-link-daebc-screen-shot-2018-03-30-at-12.05.47-pm.png)
 
 It’s interesting to me that the Average Copy Speed is a good 30MB/s faster on the HDD RAID0 than the SSD RAID0, with the same reader and media being the lowest common denominator.
 

@@ -20,7 +20,7 @@ For Infiniti I was just an assistant editor and then main editor.  I won’t go
 
 Immediately after that in September I was DPing for my 10th feature film called [Zombie Killers](http://www.imdb.com/title/tt2908090/?ref_=nm_flmg_cin_1) starring Builly Zane, Mischa Barton, Dee Wallace, and Gabrielle Stone.
 
-[![Billy Zane CU_1.26.1]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-billy-zane-cu_1-26-1.jpg)]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-billy-zane-cu_1-26-1.jpg) [![A033_C001_09162K]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-a033_c001_09162k-0000448.jpg)]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-a033_c001_09162k-0000448.jpg) [![DAY 02 GRADED_1.9.1]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-day-02-graded_1-9-1.jpg)]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-day-02-graded_1-9-1.jpg)
+[![Billy Zane CU_1.26.1](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-billy-zane-cu_1-26-1.jpg)](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-billy-zane-cu_1-26-1.jpg) [![A033_C001_09162K](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-a033_c001_09162k-0000448.jpg)](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-a033_c001_09162k-0000448.jpg) [![DAY 02 GRADED_1.9.1](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-day-02-graded_1-9-1.jpg)](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-day-02-graded_1-9-1.jpg)
 
 We were shooting in too hectic of locations (often in the middle of the woods) and I wasn’t always able to get my DIT out to set so we developed a workflow that I really really liked and will be using this going forward.  I might end up having him do a guest post on this blog.
 
@@ -34,17 +34,17 @@ For 22 Jump street I ended up purchasing a Leader LV5330 as we;; as 3 Das and 2 
 
 Here’s my setup for 22 Jump street to support 3 cameras all the time.
 
-[![Untitled]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled.png)]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled.png)
+[![Untitled](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled.png)](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled.png)
 
 I had to rewire my whole cart to be able to support this.
 
 Before:
 
-[![Untitled2]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled2.png)]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled2.png)
+[![Untitled2](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled2.png)](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled2.png)
 
 After:
 
-[![Untitled3]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled3.png)]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled3.png)
+[![Untitled3](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled3.png)](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled3.png)
 
 Also I had my buddy Wes Carrier of Carrier Lighting build out the speedrail setup so that I can have up to 4 monitors if I really wanted to.
 
@@ -52,11 +52,11 @@ The nice thing about this is that I now have the ability to be able to accuratel
 
 Also, I came up with a little trick that I REALLY like.  I took my 5330 and added a Teradek Bolt to the mix and now I have a wireless handheld unit that I can show the DP so he or she can walk around and watch the exposure as he or she so deems, it’s pretty awesome AND the bolt is light enough that it doesn’t make that much of a difference.
 
-[![Untitled4]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled4.png)]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled4.png)
+[![Untitled4](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled4.png)](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled4.png)
 
 For the most part I’m doing my monitoring almost exclusively from dual 5330s and I have access to an iris remote for the cameras that need it (aka the ones on the libra head).
 
-[![Untitled5]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled5.png)]({{ site.baseurl }}/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled5.png)
+[![Untitled5](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled5.png)](/assets/images/elderly-love-fast-cars-zombies-and-explosions-in-the-past-6-months-untitled5.png)
 
 Here’s the deal for workflow and how we’re handling media.
 

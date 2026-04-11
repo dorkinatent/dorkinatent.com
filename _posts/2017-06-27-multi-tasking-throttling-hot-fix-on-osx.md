@@ -15,7 +15,7 @@ Another main reason this is important is because of rendering and copying to the
 
 Now WITH this fix, you can render and transcode at the same time, as well as deal with multiple copies of .ari files if you need to.
 
-[![]({{ site.baseurl }}/assets/images/multi-tasking-throttling-hot-fix-on-osx-screen-shot-2017-06-27-at-3-16-44-pm.png)]({{ site.baseurl }}/assets/images/multi-tasking-throttling-hot-fix-on-osx-screen-shot-2017-06-27-at-3-16-44-pm.png)
+[![](/assets/images/multi-tasking-throttling-hot-fix-on-osx-screen-shot-2017-06-27-at-3-16-44-pm.png)](/assets/images/multi-tasking-throttling-hot-fix-on-osx-screen-shot-2017-06-27-at-3-16-44-pm.png)
 
 Text for easy copy & paste:
 

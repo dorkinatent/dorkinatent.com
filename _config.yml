@@ -1,7 +1,7 @@
 title: "Dork In a Tent"
 description: "Tips, Tricks, and Workflow topics for DITs"
-url: "https://dorkinatent.github.io"
-baseurl: "/dorkinatent.com"
+url: "https://dorkinatent.com"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 
 # Build settings

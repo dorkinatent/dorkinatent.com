@@ -20,4 +20,4 @@ I was having some issues with my [Sonnet TEMPO SATA card](http://sonnettech.com/
 
 Here’s a screenshot of the BlackMAgic Disk Speed Test I was getting earlier.  Pretty awesome.
 
-[![Image]({{ site.baseurl }}/assets/images/thunderbolt-transfer-speeds-10-screen-shot-2012-06-28-at-12-32-47-pm.png)]({{ site.baseurl }}/assets/images/thunderbolt-transfer-speeds-10-screen-shot-2012-06-28-at-12-32-47-pm.png)
+[![Image](/assets/images/thunderbolt-transfer-speeds-10-screen-shot-2012-06-28-at-12-32-47-pm.png)](/assets/images/thunderbolt-transfer-speeds-10-screen-shot-2012-06-28-at-12-32-47-pm.png)
